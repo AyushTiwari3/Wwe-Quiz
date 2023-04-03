@@ -3,7 +3,7 @@ question_data = [
             "category": "Entertainment: WWE",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Chris Jericho's Catchphrase is: You can't see me!",
+            "question": "Chris Jericho's Catchphrase is: Best in the World!",
             "correct_answer": "False",
             "incorrect_answers": ["True"],
         },
